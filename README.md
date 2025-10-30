@@ -1,2 +1,2 @@
-# 2DGAme
+# 2DGame
 ** WIP PROJECT ** 
